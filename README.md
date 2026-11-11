@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @AmilioDsouza
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Information Science and Engineering
-- 💞️ I’m looking to collaborate on more Data Analysis projects and Machine Learning Models 
-- 📫 How to reach me ... Mail - amilio0601@gmail.com | LinkedIn - https://www.linkedin.com/in/amilio-dsouza/
+### Hi, I'm Amilio 👋
 
-<!---
-AmilioDsouza/AmilioDsouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Senior Data Scientist** in Bengaluru, building LLM-powered and predictive decision systems for D2C e-commerce.
+
+I work on making AI useful in production:
+- **LLM applications:** call transcription and diarisation, LLM tagging and summarisation, RAG assistants, agent evals
+- **Predictive systems:** delivery-risk and escalation models, demand forecasting, causal analysis
+- **Data platforms:** marketplace (Amazon Ads / SP-API) pipelines, Snowflake, Airflow
+
+#### 🔭 Projects
+| Project | What it is |
+|---|---|
+| [voc-insights-agent](#) | LLM agent that explains *why* customers are unhappy, with an eval harness comparing models on accuracy, cost and latency |
+| [delivery-promise-risk](#) | Late-delivery risk model + causal estimate of lateness on review scores (Olist dataset) |
+| [amazon-ads-reports-kit](#) | Python toolkit for Amazon Ads v3 reports, plus a tested map of what actually works |
+
+#### 🛠 Stack
+Python · SQL · Snowflake · Airflow · AWS · LangChain · Gemini / OpenAI / Claude APIs · scikit-learn · Streamlit
+
+#### ✍️ Writing
+Latest posts → [LinkedIn](https://www.linkedin.com/in/amilio-dsouza/) · [Blog](#)
+
+<!-- Only add projects to the table once they're live. An empty link looks worse than no entry. -->
